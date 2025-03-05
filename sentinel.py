@@ -23,3 +23,5 @@ def sentinel_search():
 
 # Call the function to run the program
 sentinel_search()
+print(sentinel_search)
+
